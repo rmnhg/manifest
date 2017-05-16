@@ -57,8 +57,8 @@
   <project path="hardware/qcom/display-caf/msm8996" name="sultanxda/android_hardware_qcom_display" revision="cm-14.1-caf-8996" remote="github" />
   <project path="hardware/qcom/media-caf/msm8996" name="sultanxda/android_hardware_qcom_media" revision="cm-14.1-caf-8996" remote="github" />
   <project path="hardware/libhardware_legacy" name="LineageOS/android_hardware_libhardware_legacy" revision="cm-14.1" remote="github" />
-  <project path="hardware/broadcom/libbt" name="LineageOS/android_hardware_broadcom_libbt" revision="cm-14.1" remote="github" />
-  <project path="hardware/broadcom/wlan" name="LineageOS/android_hardware_broadcom_wlan" revision="cm-14.1" remote="github" />
+  <project path="hardware/broadcom/libbt" name="DirtyUnicorns/android_hardware_broadcom_libbt" revision="n7x" remote="github" />
+  <project path="hardware/broadcom/wlan" name="DirtyUnicorns/android_hardware_broadcom_wlan" revision="n7x" remote="github" />
   <project path="hardware/qcom/bootctrl" name="LineageOS/android_hardware_qcom_bootctrl" revision="cm-14.1" remote="github" />
   <project path="hardware/qcom/bt" name="LineageOS/android_hardware_qcom_bt" revision="cm-14.1-caf" remote="github" />
   <project path="hardware/qcom/camera" name="LineageOS/android_hardware_qcom_camera" revision="cm-14.1" remote="github" />
